@@ -50,8 +50,8 @@
     },
     {
       "condition": "0",
-      "comparison": "0",
-      "value": "1",
+      "comparison": "2",
+      "value": "0",
       "iftrue": "0",
       "iftrueVal": "",
       "iffalse": "2",
@@ -59,11 +59,14 @@
       "name": "Check Parameters"
     },
     {
+      "message": "0",
+      "varName": "",
       "info": "1",
-      "infoIndex": "1",
+      "ParamN": "1",
+      "separator": "",
       "storage": "1",
-      "varName": "storeCommandParams",
-      "name": "Store Command Params"
+      "varName2": "storeCommandParams",
+      "name": "Store Message Params"
     },
     {
       "channelName": "${tempVars(\"storeMemberInfo\")}",
