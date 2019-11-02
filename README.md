@@ -1,5 +1,5 @@
 # DBM-RawDatas
-*NOTE: Most of my commands REQUIRES THE LATEST MODS AND DBM BETA, if you don't know how to install beta and mods you can look here: https://gyazo.com/efdebb31fcb479451cf0a828a611c525 for beta and https://www.youtube.com/watch?v=WGURSAh0b5U for mods.*
+*NOTE: Most of my commands REQUIRES THE LATEST MODS AND DBM BETA, if you don't know how to install beta and mods you can look here: [Click here](https://gyazo.com/efdebb31fcb479451cf0a828a611c525) for beta and [Click here](https://www.youtube.com/watch?v=WGURSAh0b5U) for mods.*
 
 
 * ticket-system
