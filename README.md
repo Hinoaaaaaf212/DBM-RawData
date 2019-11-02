@@ -7,7 +7,11 @@ To set up the ticket system simply type ``[p]setup`` and it will do all the requ
 
 To open a ticket just type ``[p]new`` and it will open a new ticket.
 
+To delete the ticket type ``[p]delete`` and it will delete the current ticket.
+
 
 * role 
+
+Usage: [p]role [@user] [role]
 
 A command that adds the role to the mentioned user, if the user already has the role then it removes it from them.
