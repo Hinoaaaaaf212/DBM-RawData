@@ -17,3 +17,10 @@ To delete the ticket type ``[p]delete`` and it will delete the current ticket.
 Usage: ``[p]role [@user] [role]``
 
 A command that adds the role to the mentioned user, if the user already has the role then it removes it from them.
+
+
+* Advanced Ban Command
+
+This command bans the user and then logs the reason in audit logs, it also has a failsafe to check if the user has the required permissions or the bot and if he said the required usage.
+
+SS: https://gyazo.com/d28d2577155d45725ac55917a69e8c2d
