@@ -1,6 +1,6 @@
 {
   "name": "setup",
-  "permissions": "NONE",
+  "permissions": "MANAGE_CHANNELS",
   "restriction": "1",
   "_id": "reYYT",
   "actions": [
