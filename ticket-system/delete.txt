@@ -5,6 +5,24 @@
   "_id": "vvWuI",
   "actions": [
     {
+      "info": "1",
+      "find": "Support Team",
+      "storage": "1",
+      "varName": "storerole",
+      "name": "Find Role"
+    },
+    {
+      "member": "1",
+      "varName": "",
+      "role": "3",
+      "varName2": "storerole",
+      "iftrue": "0",
+      "iftrueVal": "",
+      "iffalse": "1",
+      "iffalseVal": "",
+      "name": "Check If Member has Role"
+    },
+    {
       "member": "1",
       "varName": "",
       "info": "1",
